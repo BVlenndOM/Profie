@@ -1,0 +1,18 @@
+/**********************************tag selection******************************/
+
+body{
+    background-color: aqua;
+}
+
+h1{
+    color: red;
+    font-size: 35px;
+}
+
+
+/*******************************class selection*******************************/
+
+.sandwich{
+    background-color: #ffff;
+}
+
